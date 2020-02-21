@@ -343,14 +343,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\emili\OneDrive\Bureau\Verime\git\Project  MLG
+  m_LastProjectPath: C:\Users\Admin\Desktop\Verime\git\Project  MLG
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: f0370000
-    m_LastClickedID: 14320
-    m_ExpandedIDs: 00000000f0370000103a00009a3c000000ca9a3b
+    m_SelectedIDs: f2370000
+    m_LastClickedID: 14322
+    m_ExpandedIDs: 00000000f2370000123a00009c3c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -378,7 +378,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f0370000103a00009a3c0000
+    m_ExpandedIDs: 00000000f2370000123a00009c3c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -501,9 +501,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 00400000
-      m_LastClickedID: 16384
-      m_ExpandedIDs: faf9ffff
+      m_SelectedIDs: 0c400000
+      m_LastClickedID: 16396
+      m_ExpandedIDs: f8f9ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
