@@ -1,0 +1,19 @@
+LES COMMANDES IMPORTANTES:
+
+git remote add origin https://github.com/Tabrise/Verime.git --> permet d'ajouter un répertoire à ton git
+
+git add --all --> préparer l'envoi des fichiers TOUJOUTS FAIRE AVANT git commit
+
+git commit -m "Commentaire" --> permet d'enregistrer les fichiers du add dans le git 
+
+git push origin master --> permet d'envoyer les fichiers à jour sur le répertoire TOUJOURS FAIRE GIT COMMIT AVANT
+
+git pull origin master --> permet de récuperer les fichers d'un répertoire en tant que master
+
+clear --> permet de clear la console de commande
+
+///////AUTRE TEST//////
+
+De plus il faut se créer un compte sur www.github.com
+
+fromage et beacon

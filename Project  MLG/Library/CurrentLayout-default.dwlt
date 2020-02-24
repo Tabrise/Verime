@@ -343,7 +343,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Admin\Desktop\Verime\git\Project  MLG
+  m_LastProjectPath: C:\Users\emili\OneDrive\Bureau\Verime\git\Project  MLG
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -501,8 +501,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 0c400000
-      m_LastClickedID: 16396
+      m_SelectedIDs: 
+      m_LastClickedID: 0
       m_ExpandedIDs: f8f9ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
