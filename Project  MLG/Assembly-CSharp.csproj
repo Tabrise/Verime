@@ -65,6 +65,7 @@
   <ItemGroup>
     <Compile Include="Assets\Arkham Interactive\Toony\Skies\Scripts\Levelloader.cs" />
     <Compile Include="Assets\Arkham Interactive\Toony\Skies\Scripts\MouseLook.cs" />
+    <Compile Include="Assets\Script\changerDeScene.cs" />
     <Compile Include="Assets\Script\deplacement.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/emili/OneDrive/Bureau/Verime/git/Project  MLG/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
