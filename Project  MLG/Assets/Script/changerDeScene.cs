@@ -16,6 +16,7 @@ public class changerDeScene : MonoBehaviour
     {
         
     }
+
     public void OnCollisionEnter(Collision collision)
     {
         if (collision.collider.tag == "perso")

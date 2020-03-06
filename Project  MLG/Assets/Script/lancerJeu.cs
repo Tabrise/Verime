@@ -12,12 +12,19 @@ public class lancerJeu : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    public void PlayGame()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            SceneManager.LoadScene("SampleScene");
-          
-        }
+        SceneManager.LoadScene("jeu");
     }
+
+    public void MAINMENU()
+    {
+        SceneManager.LoadScene("sceneDeDbt");
+    }
+
+    public void QuitGame()
+    {
+        Application.Quit();
+    }
+
 }
